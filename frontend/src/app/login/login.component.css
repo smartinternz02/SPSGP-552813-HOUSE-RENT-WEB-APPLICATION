@@ -1,0 +1,41 @@
+button[type="submit"] {
+    background-color:aqua;
+    color: black;
+    padding: 10px 20px;
+  }
+  
+  button[type="submit"]:hover {
+    background-color:yellow;
+  }
+
+  button[type="reset"] {
+    background-color:aqua;
+    color: black;
+    padding: 10px 20px;
+  }
+  
+  button[type="reset"]:hover {
+    background-color:red;
+  }
+  
+  h1{
+    text-shadow: 2px 2px 2px cyan;
+    font-family:Impact, Haettenschweiler, sans-serif;
+  }
+  input:hover {
+    background-color:cyan;
+  }
+  .col-md-12{
+    background-image: url("https://imgs.search.brave.com/cUgHlubb_ww5xDzTMH2WBWEyhtGHGYz3ZFR6EdTVJRg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9m/bGF0LWxheS1yZWFs/LWVzdGF0ZS1jb25j/ZXB0XzUzODc2LTE0/NTAyLmpwZz9zaXpl/PTYyNiZleHQ9anBn");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  b{
+    font-size:larger;
+    color: darkblue;
+  }
+footer{
+  text-align: center;
+  color:darkblue;
+  background: mintcream;
+}
